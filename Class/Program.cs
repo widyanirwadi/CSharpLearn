@@ -69,11 +69,30 @@ namespace Class
 
             // Metode tanpa static
             int result1 = mathUtils.Multiply(5, 3);
-            Console.WriteLine("Multiply Result: " + result1);
+            // Console.WriteLine("Multiply Result: " + result1);
 
             // Metode dengan static
             int result2 = MathUtils.Add(5, 3);
-            Console.WriteLine("Add Result: " + result2);
+            // Console.WriteLine("Add Result: " + result2);
+
+            ArrayLearn arrayLearn = new ArrayLearn();
+            arrayLearn.Color = new string[3];
+            arrayLearn.Color[0] = "red";
+            arrayLearn.Color[1] = "green";
+            arrayLearn.Color[2] = "blue";
+
+            // Console.WriteLine(arrayLearn.Color[0]);
+
+            string[] pakaian;
+            pakaian = new string[3];
+            pakaian[0] = "Kaos";
+            pakaian[1] = "Jeans";
+            pakaian[2] = "Kemeja";
+
+            for(var i = 0; i < pakaian.Length; i++)
+            {
+                Console.WriteLine(pakaian[i]);
+            }
         }
     }
 }
