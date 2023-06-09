@@ -52,7 +52,9 @@ namespace ICollection
             }
             
             */
+            Owner ownerTest = new Owner();
 
+            Console.WriteLine(ownerTest.OwnerId);
             Owner owner1 = new Owner
             {
                 OwnerId = 1,
