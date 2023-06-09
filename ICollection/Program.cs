@@ -6,6 +6,8 @@ namespace ICollection
     {
         static void Main(string[] args)
         {
+
+            /*
             // Membuat objek Author
             Author author1 = new Author
             {
@@ -13,15 +15,6 @@ namespace ICollection
                 Name = "John Doe",
                 Books = new List<Book>()
             };
-
-            Author author2 = new Author
-            {
-                Id = 2,
-                Name = "Jane Smith",
-                Books = new List<Book>()
-            };
-
-
             
             // Membuat objek Book
             Book book1 = new Book
@@ -31,19 +24,8 @@ namespace ICollection
                 Authors = new List<Author> { author1 }
             };
 
-            var book2 = new Book
-            {
-                Id = 2,
-                Title = "Sample Book 2",
-                Authors = new List<Author> { author1, author2, author1 }
-            };
-
-            
-            
             // Menambahkan buku ke koleksi Books pada setiap penulis
             author1.Books.Add(book1);
-            author1.Books.Add(book2);
-            author2.Books.Add(book2);
 
             // Menampilkan informasi penulis dan bukunya
             Console.WriteLine("Authors and their Books:");
@@ -57,13 +39,6 @@ namespace ICollection
             }
             Console.WriteLine();
 
-            Console.WriteLine($"Author: {author2.Name} (ID: {author2.Id})");
-            Console.WriteLine("Books:");
-            foreach (var book in author2.Books)
-            {
-                Console.WriteLine($"- {book.Title} (ID: {book.Id})");
-            }
-
             // Menghapus buku dari koleksi Books pada penulis
             author1.Books.Remove(book1);
 
@@ -76,6 +51,36 @@ namespace ICollection
                 Console.WriteLine($"- {book.Title} (ID: {book.Id})");
             }
             
+            */
+
+            Owner owner1 = new Owner
+            {
+                OwnerId = 1,
+                Name = "Widyan Irwadi",
+                Vehicles = new List<Vehicle>()
+            };
+
+            Vehicle vehicle1 = new Vehicle
+            {
+                VehicleId = 1,
+                Name = "Supra X",
+                Description = "Supra X 125cc"
+            };
+
+            Vehicle vehicle2 = new Vehicle
+            {
+                VehicleId = 2,
+                Name = "Kijang Innova",
+                Description = "Kijang Innova 5000cc"
+            };
+
+            owner1.Vehicles.Add(vehicle1);
+            owner1.Vehicles.Add(vehicle2);
+
+            foreach(var vehicle in owner1.Vehicles)
+            {
+                Console.WriteLine(vehicle.Name + " " + vehicle.Description);
+            }
         }
     }
 }
