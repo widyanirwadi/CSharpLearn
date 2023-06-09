@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\SelfLearning\StringLength\bin\Debug\net6.0\StringLength.exe
+C:\Users\user\source\repos\SelfLearning\StringLength\bin\Debug\net6.0\StringLength.deps.json
+C:\Users\user\source\repos\SelfLearning\StringLength\bin\Debug\net6.0\StringLength.runtimeconfig.json
+C:\Users\user\source\repos\SelfLearning\StringLength\bin\Debug\net6.0\StringLength.dll
+C:\Users\user\source\repos\SelfLearning\StringLength\bin\Debug\net6.0\StringLength.pdb
+C:\Users\user\source\repos\SelfLearning\StringLength\obj\Debug\net6.0\StringLength.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SelfLearning\StringLength\obj\Debug\net6.0\StringLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SelfLearning\StringLength\obj\Debug\net6.0\StringLength.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SelfLearning\StringLength\obj\Debug\net6.0\StringLength.AssemblyInfo.cs
+C:\Users\user\source\repos\SelfLearning\StringLength\obj\Debug\net6.0\StringLength.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SelfLearning\StringLength\obj\Debug\net6.0\StringLength.dll
+C:\Users\user\source\repos\SelfLearning\StringLength\obj\Debug\net6.0\refint\StringLength.dll
+C:\Users\user\source\repos\SelfLearning\StringLength\obj\Debug\net6.0\StringLength.pdb
+C:\Users\user\source\repos\SelfLearning\StringLength\obj\Debug\net6.0\StringLength.genruntimeconfig.cache
+C:\Users\user\source\repos\SelfLearning\StringLength\obj\Debug\net6.0\ref\StringLength.dll
