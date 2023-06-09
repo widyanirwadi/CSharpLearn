@@ -63,7 +63,17 @@ namespace Class
             double circleArea = firstCircle.CalculateArea();
             double circleCircumference = firstCircle.CalculateCircumference();
 
-            Console.WriteLine(circleArea);
+            // Console.WriteLine(circleArea);
+
+            MathUtils mathUtils = new MathUtils();
+
+            // Metode tanpa static
+            int result1 = mathUtils.Multiply(5, 3);
+            Console.WriteLine("Multiply Result: " + result1);
+
+            // Metode dengan static
+            int result2 = MathUtils.Add(5, 3);
+            Console.WriteLine("Add Result: " + result2);
         }
     }
 }
