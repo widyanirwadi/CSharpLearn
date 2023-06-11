@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\SelfLearning\\ICollection\\ICollection.csproj": {}
+    "D:\\Dev\\CSharpLearning\\ICollection\\ICollection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\SelfLearning\\ICollection\\ICollection.csproj": {
+    "D:\\Dev\\CSharpLearning\\ICollection\\ICollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\SelfLearning\\ICollection\\ICollection.csproj",
+        "projectUniqueName": "D:\\Dev\\CSharpLearning\\ICollection\\ICollection.csproj",
         "projectName": "ICollection",
-        "projectPath": "C:\\Users\\user\\source\\repos\\SelfLearning\\ICollection\\ICollection.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\SelfLearning\\ICollection\\obj\\",
+        "projectPath": "D:\\Dev\\CSharpLearning\\ICollection\\ICollection.csproj",
+        "packagesPath": "C:\\Users\\widya_xoc7qeb\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\CSharpLearning\\ICollection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\widya_xoc7qeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

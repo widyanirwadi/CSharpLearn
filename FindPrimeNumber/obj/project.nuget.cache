@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r1l/osnv8Uz+1LET36uSXJKBk0QAPysR37QJJGU7DTRtiyylcqocrn6IGQwx+jrGbFRKYeIspaFYNrXNin1UhQ==",
+  "dgSpecHash": "e5tE0oDAaQeOFM5oLB761E71X0tsBEi3kiETnD+IbVYYYIiReZPItCGO9dU0R/BfWF6it1yIasLD1Mn7zm5/Iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\SelfLearning\\FindPrimeNumber\\FindPrimeNumber.csproj",
+  "projectFilePath": "D:\\Dev\\CSharpLearning\\FindPrimeNumber\\FindPrimeNumber.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
