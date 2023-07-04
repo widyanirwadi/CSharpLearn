@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\SelfLearning\ArrayAndList\bin\Debug\net6.0\ArrayAndList.exe
+C:\Users\user\source\repos\SelfLearning\ArrayAndList\bin\Debug\net6.0\ArrayAndList.deps.json
+C:\Users\user\source\repos\SelfLearning\ArrayAndList\bin\Debug\net6.0\ArrayAndList.runtimeconfig.json
+C:\Users\user\source\repos\SelfLearning\ArrayAndList\bin\Debug\net6.0\ArrayAndList.dll
+C:\Users\user\source\repos\SelfLearning\ArrayAndList\bin\Debug\net6.0\ArrayAndList.pdb
+C:\Users\user\source\repos\SelfLearning\ArrayAndList\obj\Debug\net6.0\ArrayAndList.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SelfLearning\ArrayAndList\obj\Debug\net6.0\ArrayAndList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SelfLearning\ArrayAndList\obj\Debug\net6.0\ArrayAndList.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SelfLearning\ArrayAndList\obj\Debug\net6.0\ArrayAndList.AssemblyInfo.cs
+C:\Users\user\source\repos\SelfLearning\ArrayAndList\obj\Debug\net6.0\ArrayAndList.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SelfLearning\ArrayAndList\obj\Debug\net6.0\ArrayAndList.dll
+C:\Users\user\source\repos\SelfLearning\ArrayAndList\obj\Debug\net6.0\refint\ArrayAndList.dll
+C:\Users\user\source\repos\SelfLearning\ArrayAndList\obj\Debug\net6.0\ArrayAndList.pdb
+C:\Users\user\source\repos\SelfLearning\ArrayAndList\obj\Debug\net6.0\ArrayAndList.genruntimeconfig.cache
+C:\Users\user\source\repos\SelfLearning\ArrayAndList\obj\Debug\net6.0\ref\ArrayAndList.dll

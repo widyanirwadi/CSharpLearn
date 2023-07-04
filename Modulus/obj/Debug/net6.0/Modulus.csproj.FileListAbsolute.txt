@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\SelfLearning\Modulus\bin\Debug\net6.0\Modulus.exe
+C:\Users\user\source\repos\SelfLearning\Modulus\bin\Debug\net6.0\Modulus.deps.json
+C:\Users\user\source\repos\SelfLearning\Modulus\bin\Debug\net6.0\Modulus.runtimeconfig.json
+C:\Users\user\source\repos\SelfLearning\Modulus\bin\Debug\net6.0\Modulus.dll
+C:\Users\user\source\repos\SelfLearning\Modulus\bin\Debug\net6.0\Modulus.pdb
+C:\Users\user\source\repos\SelfLearning\Modulus\obj\Debug\net6.0\Modulus.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SelfLearning\Modulus\obj\Debug\net6.0\Modulus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SelfLearning\Modulus\obj\Debug\net6.0\Modulus.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SelfLearning\Modulus\obj\Debug\net6.0\Modulus.AssemblyInfo.cs
+C:\Users\user\source\repos\SelfLearning\Modulus\obj\Debug\net6.0\Modulus.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SelfLearning\Modulus\obj\Debug\net6.0\Modulus.dll
+C:\Users\user\source\repos\SelfLearning\Modulus\obj\Debug\net6.0\refint\Modulus.dll
+C:\Users\user\source\repos\SelfLearning\Modulus\obj\Debug\net6.0\Modulus.pdb
+C:\Users\user\source\repos\SelfLearning\Modulus\obj\Debug\net6.0\Modulus.genruntimeconfig.cache
+C:\Users\user\source\repos\SelfLearning\Modulus\obj\Debug\net6.0\ref\Modulus.dll

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\SelfLearning\ControlFlowExrecise\bin\Debug\net6.0\ControlFlowExrecise.exe
+C:\Users\user\source\repos\SelfLearning\ControlFlowExrecise\bin\Debug\net6.0\ControlFlowExrecise.deps.json
+C:\Users\user\source\repos\SelfLearning\ControlFlowExrecise\bin\Debug\net6.0\ControlFlowExrecise.runtimeconfig.json
+C:\Users\user\source\repos\SelfLearning\ControlFlowExrecise\bin\Debug\net6.0\ControlFlowExrecise.dll
+C:\Users\user\source\repos\SelfLearning\ControlFlowExrecise\bin\Debug\net6.0\ControlFlowExrecise.pdb
+C:\Users\user\source\repos\SelfLearning\ControlFlowExrecise\obj\Debug\net6.0\ControlFlowExrecise.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SelfLearning\ControlFlowExrecise\obj\Debug\net6.0\ControlFlowExrecise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SelfLearning\ControlFlowExrecise\obj\Debug\net6.0\ControlFlowExrecise.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SelfLearning\ControlFlowExrecise\obj\Debug\net6.0\ControlFlowExrecise.AssemblyInfo.cs
+C:\Users\user\source\repos\SelfLearning\ControlFlowExrecise\obj\Debug\net6.0\ControlFlowExrecise.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SelfLearning\ControlFlowExrecise\obj\Debug\net6.0\ControlFlowExrecise.dll
+C:\Users\user\source\repos\SelfLearning\ControlFlowExrecise\obj\Debug\net6.0\refint\ControlFlowExrecise.dll
+C:\Users\user\source\repos\SelfLearning\ControlFlowExrecise\obj\Debug\net6.0\ControlFlowExrecise.pdb
+C:\Users\user\source\repos\SelfLearning\ControlFlowExrecise\obj\Debug\net6.0\ControlFlowExrecise.genruntimeconfig.cache
+C:\Users\user\source\repos\SelfLearning\ControlFlowExrecise\obj\Debug\net6.0\ref\ControlFlowExrecise.dll

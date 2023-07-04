@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\SelfLearning\WorkingWithTextExercise\bin\Debug\net6.0\WorkingWithTextExercise.exe
+C:\Users\user\source\repos\SelfLearning\WorkingWithTextExercise\bin\Debug\net6.0\WorkingWithTextExercise.deps.json
+C:\Users\user\source\repos\SelfLearning\WorkingWithTextExercise\bin\Debug\net6.0\WorkingWithTextExercise.runtimeconfig.json
+C:\Users\user\source\repos\SelfLearning\WorkingWithTextExercise\bin\Debug\net6.0\WorkingWithTextExercise.dll
+C:\Users\user\source\repos\SelfLearning\WorkingWithTextExercise\bin\Debug\net6.0\WorkingWithTextExercise.pdb
+C:\Users\user\source\repos\SelfLearning\WorkingWithTextExercise\obj\Debug\net6.0\WorkingWithTextExercise.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SelfLearning\WorkingWithTextExercise\obj\Debug\net6.0\WorkingWithTextExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SelfLearning\WorkingWithTextExercise\obj\Debug\net6.0\WorkingWithTextExercise.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SelfLearning\WorkingWithTextExercise\obj\Debug\net6.0\WorkingWithTextExercise.AssemblyInfo.cs
+C:\Users\user\source\repos\SelfLearning\WorkingWithTextExercise\obj\Debug\net6.0\WorkingWithTextExercise.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SelfLearning\WorkingWithTextExercise\obj\Debug\net6.0\WorkingWithTextExercise.dll
+C:\Users\user\source\repos\SelfLearning\WorkingWithTextExercise\obj\Debug\net6.0\refint\WorkingWithTextExercise.dll
+C:\Users\user\source\repos\SelfLearning\WorkingWithTextExercise\obj\Debug\net6.0\WorkingWithTextExercise.pdb
+C:\Users\user\source\repos\SelfLearning\WorkingWithTextExercise\obj\Debug\net6.0\WorkingWithTextExercise.genruntimeconfig.cache
+C:\Users\user\source\repos\SelfLearning\WorkingWithTextExercise\obj\Debug\net6.0\ref\WorkingWithTextExercise.dll
