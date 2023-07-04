@@ -7,6 +7,7 @@ namespace Class
     {
         static void Main(string[] args)
         {
+            /* 
             Person firstPerson = new Person();
             firstPerson.Name = "Widyan Irwadi";
             firstPerson.Age = 29;
@@ -93,6 +94,12 @@ namespace Class
             {
                 Console.WriteLine(pakaian[i]);
             }
+            */
+
+            LearnClass person = new LearnClass();
+            person.FirstName = "Widyan";
+            person.LastName = "Irwadi";
+            person.Introduce();
         }
     }
 }

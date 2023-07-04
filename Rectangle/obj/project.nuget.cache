@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3VbCl+iUqOwJlbOAKbCn5GOcjsxbs3U+0ofAMCCVXTBRgfiNU6RopVUxUESyvHBSEBkjzk8G+iJDjQHCQJmVQg==",
+  "dgSpecHash": "Y2bh/ZKS6FKnyRlfi8jjt3r/ch0OcejO9Eokc52SsuXqb2UX4/PSpYDs0ktgXw0hfrPMr4Z5q9ySuveD1uaWJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\SelfLearning\\Rectangle\\Rectangle.csproj",
+  "projectFilePath": "D:\\Dev\\CSharpLearning\\Rectangle\\Rectangle.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

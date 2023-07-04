@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SLnd2DBwDAUUa5V5y4M/44Ob2RpFts2+tw2W01rKAIkZuFplmRj5vHA1ByJBUtg+pvMwDUjx5XXwxAPixX0Dnw==",
+  "dgSpecHash": "mMebl3wOZJ9PPqAF6n9MlvBIpTSpjtRCzdgpwuCg2QhCq2yapmRBUIuZSz9co0CxAX2EGCqNSGehp8X/ZW8daw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\SelfLearning\\StringLength\\StringLength.csproj",
+  "projectFilePath": "D:\\Dev\\CSharpLearning\\StringLength\\StringLength.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

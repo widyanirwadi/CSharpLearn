@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\SelfLearning\\FindPrimeNumber\\FindPrimeNumber.csproj": {}
+    "D:\\Dev\\CSharpLearning\\FindPrimeNumber\\FindPrimeNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\SelfLearning\\FindPrimeNumber\\FindPrimeNumber.csproj": {
+    "D:\\Dev\\CSharpLearning\\FindPrimeNumber\\FindPrimeNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\SelfLearning\\FindPrimeNumber\\FindPrimeNumber.csproj",
+        "projectUniqueName": "D:\\Dev\\CSharpLearning\\FindPrimeNumber\\FindPrimeNumber.csproj",
         "projectName": "FindPrimeNumber",
-        "projectPath": "C:\\Users\\user\\source\\repos\\SelfLearning\\FindPrimeNumber\\FindPrimeNumber.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\SelfLearning\\FindPrimeNumber\\obj\\",
+        "projectPath": "D:\\Dev\\CSharpLearning\\FindPrimeNumber\\FindPrimeNumber.csproj",
+        "packagesPath": "C:\\Users\\widya_xoc7qeb\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\CSharpLearning\\FindPrimeNumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\widya_xoc7qeb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
